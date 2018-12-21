@@ -41,8 +41,8 @@ if __name__ == '__main__':
     y = np.random.randn(2,6)
     print(x)
     # print(x.reshape(6,2))
-    print(np.dot(x, y), " \n\n ")
-    print(matrix_mul(x, y) - np.dot(x, y), " \n\n ")
+    # print(np.dot(x, y), " \n\n ")
+    # print(matrix_mul(x, y) - np.dot(x, y), " \n\n ")
 
 
 
